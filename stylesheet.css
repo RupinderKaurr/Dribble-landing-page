@@ -54,14 +54,14 @@ left:3px;
 .pass{
  text-align: right;
 }
-#ping{
- background-color:rgb(252,251,251);
+#twitter-icon{
+ background-color:#f7f7f7;
  height:25px;
  width:25px;
  float:right;
  margin:3px;
- padding: 2px 2px 2px 2px;
- border-radius: 2px;
+ padding: 5px;
+ border-radius: 4px;
 }
 .box-larger a{
  float: right;
