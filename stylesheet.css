@@ -18,7 +18,6 @@
     background-color:#f5cdd7;
      }
   .box{
-    
     flex: 1 0 auto;
     padding: 10px;
     background:#f5cdd7;
@@ -61,7 +60,12 @@ left:3px;
   margin:3px;
   padding: 4px ;
   border-radius: 4px;
- }
+  }
+  #twitter-icon:hover{
+    cursor: pointer;
+  }
+    
+  
 .box-larger a{
  float: right;
  }
