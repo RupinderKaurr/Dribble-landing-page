@@ -18,11 +18,10 @@
     background-color:#f5cdd7;
      }
   .box{
-    border-radius: 3px;
+    
     flex: 1 0 auto;
     padding: 10px;
-    background: pink;
-    color: white;
+    background:#f5cdd7;
     width: 500px;
     height: 700px;
     }
