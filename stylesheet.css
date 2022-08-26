@@ -55,14 +55,14 @@ left:3px;
  text-align: right;
 }
 #twitter-icon{
- background-color:#f7f7f7;
- height:25px;
- width:25px;
- float:right;
- margin:3px;
- padding: 5px;
- border-radius: 4px;
-}
+  background-color:#f3f3f4 ;
+  height:25px;
+  width:25px;
+  float:right;
+  margin:3px;
+  padding: 4px ;
+  border-radius: 4px;
+ }
 .box-larger a{
  float: right;
  }
