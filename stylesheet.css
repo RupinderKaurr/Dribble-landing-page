@@ -18,11 +18,9 @@
     background-color:#f5cdd7;
      }
   .box{
-    border-radius: 3px;
     flex: 1 0 auto;
     padding: 10px;
-    background: pink;
-    color: white;
+    background:#f5cdd7;
     width: 500px;
     height: 700px;
     }
@@ -55,24 +53,34 @@ left:3px;
  text-align: right;
 }
 #twitter-icon{
- background-color:#f3f3f4 ;
- height:25px;
- width:25px;
- float:right;
- margin:3px;
- padding: 4px ;
- border-radius: 4px;
-}
+  background-color:#f3f3f4 ;
+  height:25px;
+  width:25px;
+  float:right;
+  margin:3px;
+  padding: 4px ;
+  border-radius: 4px;
+  }
+  #twitter-icon:hover{
+    cursor: pointer;
+  }
+    
+  
 .box-larger a{
  float: right;
  }
 h2{
  text-align: center;
   font-size: 24px;
+  color:#0b0d21;
   }
-h1,h6{
+h6{
  color:grey ;
  font-size: 24px;
+}
+h1{
+  color: #8a5c6c;
+  font-size: 10px;
 }
 .span1{
 color:black;
