@@ -10,8 +10,7 @@
  display: flex;
  flex-direction: row;
  position: relative;
-
-   }
+}
    .img2 {
     width:500px;
     height: 400px;
@@ -19,13 +18,11 @@
   .box{
     flex: 1 0 auto;
     padding: 10px;
-    background:#f5cdd7;
     width: 500px;
     height: 500px;
-    
     }
 .font{
- font-family: Dejavu sans-serif;
+ font-family: sans-serif;
  font-size: 24px;
  text-align: left;
  color: grey;
