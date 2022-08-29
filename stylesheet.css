@@ -1,15 +1,8 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  }
 .container{
   background:#f5cdd7;
    width:1100px;
  height: 700px;
  display: flex;
- flex-direction: row;
- position: relative;
 }
    .img2 {
     width:500px;
@@ -36,14 +29,12 @@
  font-weight: bold;
 letter-spacing: 1px;
  text-transform: uppercase;
- transition: transform 80ms ease-in;
-}
+ }
 .box-larger{
  padding:0 20px;
  background: white;
  flex:2 0 auto ;
 padding-top: 20%;
-position: relative;
 left:3px;
 }
 .pass{
@@ -61,9 +52,7 @@ left:3px;
   #twitter-icon:hover{
     cursor: pointer;
   }
-    
-  
-.box-larger a{
+    .box-larger a{
  float: right;
  }
 h2{
@@ -90,7 +79,4 @@ background-color:white;
  height:20px;
  width:20px;
  padding: top 4px;
-}
-input[type='text']{
-  background-color: rgb(175, 171, 171);
 }
