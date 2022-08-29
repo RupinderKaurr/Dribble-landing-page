@@ -4,9 +4,9 @@
   box-sizing: border-box;
   }
 .container{
-  background:pink;
-   width:1897px;
- height: 968px;
+  background:#f5cdd7;
+   width:1100px;
+ height: 600px;
  display: flex;
  flex-direction: row;
  position: relative;
@@ -15,14 +15,14 @@
    .img2 {
     width:500px;
     height: 400px;
-    background-color:#f5cdd7;
-     }
+    }
   .box{
     flex: 1 0 auto;
     padding: 10px;
     background:#f5cdd7;
     width: 500px;
-    height: 700px;
+    height: 500px;
+    
     }
 .font{
  font-family: Dejavu sans-serif;
